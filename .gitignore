@@ -38,5 +38,10 @@ node_modules/
 tmp/
 temp/
 
+# Local-only release/push helper scripts & notes (do not publish)
+FINAL_PUSH.sh
+push_clean.sh
+READY_TO_PUSH.md
+
 ./prepare_and_push.sh
 ./txt

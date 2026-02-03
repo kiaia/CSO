@@ -1,0 +1,6 @@
+# PRM Visualizer Server 依赖
+
+Flask>=2.3.0
+Flask-CORS>=4.0.0
+Werkzeug>=2.3.0
+

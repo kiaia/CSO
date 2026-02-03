@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+_log_*
+
+# Generated outputs / artifacts
+*.output.jsonl
+
+# Playwright
+.playwright/
+node_modules/
+**/DownloadedFiles/
+**/screenshots/
+
+# Temp
+tmp/
+temp/
+
+./prepare_and_push.sh
+./txt

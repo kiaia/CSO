@@ -1,6 +1,6 @@
 # Verified Critical Step Optimization (CSO) for LLM Agents
 
-[![arXiv](https://img.shields.io/badge/arXiv-Coming%20Soon-b31b1b.svg)]() 
+[![arXiv](https://img.shields.io/badge/arXiv-Coming%20Soon-b31b1b.svg)](https://arxiv.org/abs/2602.03412) 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](https://opensource.org/licenses/Apache-2.0)
 
@@ -171,11 +171,14 @@ bash run_gaia_with_planning_no_prm_l1_v0_ck_dpo.sh
 If you use this code or find our work helpful, please cite:
 
 ```bibtex
-@article{cso2026,
-  title={Verified Critical Step Optimization for LLM Agents},
-  author={Your Name and Others},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
-  year={2026}
+@misc{li2026verifiedcriticalstepoptimization,
+      title={Verified Critical Step Optimization for LLM Agents}, 
+      author={Mukai Li and Qingcheng Zeng and Tianqing Fang and Zhenwen Liang and Linfeng Song and Qi Liu and Haitao Mi and Dong Yu},
+      year={2026},
+      eprint={2602.03412},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2602.03412}, 
 }
 ```
 
